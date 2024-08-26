@@ -31,12 +31,13 @@ During the development of Decisively, I faced the challenge of being the sole de
 
 #### 📸 Application Snapshots
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="./images/login.jpg" alt="Login" style="max-width: 150px; max-height: 300px; object-fit: cover;">
-  <img src="./images/dashboard.jpg" alt="Dashboard" style="max-width: 150px; max-height: 300px; object-fit: cover;">
-  <img src="./images/Menu.jpg" alt="Menu" style="max-width: 150px; max-height: 300px; object-fit: cover;">
-  <img src="./images/dt.jpg" alt="DT" style="max-width: 150px; max-height: 300px; object-fit: cover;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="./images/login.jpg" alt="Login" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./images/dashboard.jpg" alt="Dashboard" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./images/Menu.jpg" alt="Menu" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./images/dt.jpg" alt="DT" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
 </div>
+
 
 ### 2. MPOS
 **Tech Stack:** C#, Xamarin.Forms, SQLite, Firebase, ASP.NET Core, SQL.
