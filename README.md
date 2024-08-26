@@ -1,14 +1,20 @@
 # Aswani's Developer Portfolio
 
-## 👋 Hi there!
-I'm **Aswani**, a passionate software developer with experience in a variety of technologies and frameworks. My journey in software development has led me to work on diverse projects, ranging from web development to mobile app development.
+![Photo](assets/photo.jpg)
 
-## 💻 Technologies & Tools
-- **Languages:** SQL, HTML5, CSS, C#, JavaScript
-- **Frameworks & Libraries:** Node.js, Express, Xamarin Forms, ASP.NET Core, MAUI
-- **Tools & Platforms:** Git, Postman, Firebase
+## 👨‍💻 About Me
 
-## 🌟 Projects
+Hey there! I'm **Aswani**, a creative and driven software developer with a passion for turning ideas into reality through code. Whether it's crafting seamless user experiences or architecting robust back-end systems, I love taking on challenges and learning new technologies along the way.
+
+From mobile app development to web app development, I've honed my skills across a range of technologies. My toolkit includes everything from the elegance of C# and ASP.NET Core to the versatility of Node.js and Express. I also have a knack for ensuring smooth data flow with SQL and Firebase.
+
+
+## 💼 My Skillset
+- **Languages:** SQLite, SQL, HTML5, CSS, C#, JavaScript.
+- **Frameworks & Libraries:** Xamarin Forms, MAUI, ASP.NET Core, Node.js, Express. 
+- **Tools & Platforms:** Git, Postman, Firebase.
+
+## 🚀 Featured Projects
 ### 1. [Project Name](#)
 **Tech Stack:** C#, ASP.NET Core, SQL
 
@@ -24,13 +30,9 @@ A brief description of the project. Mention what you achieved and the value the 
 
 A brief description of the project. Focus on the mobile experience and integration with Firebase.
 
-## 📈 My GitHub Stats
-![Aswani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## 📫 Let's Connect
+## 🌐 Let's Connect
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 - **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
 
-Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
-
+I'm always open to new opportunities, collaborations, and conversations. Let's build something amazing together!
