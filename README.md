@@ -11,7 +11,7 @@
       From mobile app development to web app development, I've honed my skills across a range of technologies. My toolkit includes the elegance of C# and ASP.NET Core and the versatility of Node.js and Express. I also have a knack for ensuring smooth data flow with SQL and Firebase.
     </p>
   </div>
-  <img src="./images/profile_photo.jpg" alt="Aswani's Photo" style="border-radius: 50%; width: 150px; height: 150px; margin-left: 20px;">
+  
 </div>
 
 
@@ -33,13 +33,14 @@ During the development of Decisively, I faced the challenge of being the sole de
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="./images/login.jpg" alt="Login" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="./images/dashboard.jpg" alt="Dashboard" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
   <img src="./images/Menu.jpg" alt="Menu" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./images/dashboard.jpg" alt="Dashboard" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
+  
   <img src="./images/dt.jpg" alt="DT" style="width: 150px; height: 300px; object-fit: cover; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
 
-### 2. MPOS
+### 2. ZKTecho MPOS
 **Tech Stack:** C#, Xamarin.Forms, SQLite, Firebase, ASP.NET Core, SQL.
 
 The MPOS (Mobile Point of Sale) application enables users to sell items via mobile devices. The main challenge I faced was developing an intuitive and responsive user interface (UI) that ensured a smooth and efficient sales experience across various devices.
@@ -52,6 +53,5 @@ The Payment Application enables secure transactions by reading card details usin
 ## 🌐 Let's Connect
 - **Email:** [aswanipu@gmail.com](mailto:aswanipu@gmail.com)
 - **LinkedIn:** [linkedin.com/in/aswani-unnikrishnan](www.linkedin.com/in/aswani-unnikrishnan)
-- **Git:** [your-portfolio-site.com](https://your-portfolio-site.com)
 
 I'm always open to new opportunities, collaborations, and conversations. Let's build something amazing together!
